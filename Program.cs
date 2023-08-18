@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 using BlazorChat.Data;
+using BlazorChat;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -32,7 +33,7 @@ app.UseEndpoints(endpoints =>
 {
     endpoints.MapBlazorHub();
     endpoints.MapFallbackToPage("/_Host");
-    endpoints.MapHub<BlazorChatHub>(BlazorChatHub.HubUrl);
+    endpoints.MapHub<BlazorChatHub>(BlazorChatHub.HubURL);
 });
 
 app.Run();
