@@ -9,7 +9,7 @@ namespace BlazorChat
     *   This class inherits from the Hub class 
     *   Public methods are callable by the client 
     */
-    public class BlazorChatSampleHub : Hub 
+    public class BlazorChatHub : Hub 
     {
         public const string HubURL = "/chat"; 
 
