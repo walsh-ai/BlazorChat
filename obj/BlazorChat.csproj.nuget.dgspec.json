@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\walsh\\OneDrive\\Documents\\_wkspace\\BlazorChat\\BlazorChat.csproj": {}
+    "c:\\Users\\walsh\\OneDrive\\Documents\\_wkspace\\BlazorChat\\BlazorChat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\walsh\\OneDrive\\Documents\\_wkspace\\BlazorChat\\BlazorChat.csproj": {
+    "c:\\Users\\walsh\\OneDrive\\Documents\\_wkspace\\BlazorChat\\BlazorChat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\walsh\\OneDrive\\Documents\\_wkspace\\BlazorChat\\BlazorChat.csproj",
+        "projectUniqueName": "c:\\Users\\walsh\\OneDrive\\Documents\\_wkspace\\BlazorChat\\BlazorChat.csproj",
         "projectName": "BlazorChat",
-        "projectPath": "C:\\Users\\walsh\\OneDrive\\Documents\\_wkspace\\BlazorChat\\BlazorChat.csproj",
+        "projectPath": "c:\\Users\\walsh\\OneDrive\\Documents\\_wkspace\\BlazorChat\\BlazorChat.csproj",
         "packagesPath": "C:\\Users\\walsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\walsh\\OneDrive\\Documents\\_wkspace\\BlazorChat\\obj\\",
+        "outputPath": "c:\\Users\\walsh\\OneDrive\\Documents\\_wkspace\\BlazorChat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\walsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
